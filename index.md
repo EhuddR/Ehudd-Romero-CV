@@ -29,7 +29,8 @@
   - Adobe Dreamweaver
 	- Adobe Premiere
 - **Programing Hub 1. 2020 6 weeks**
-- R programming language. (R studio) - - Business Analytics
+- R programming language. (R studio)
+- Business Analytics
 - Data Science
 - Data Analytics
 - Basic CSS and HTML5
@@ -37,7 +38,7 @@
 ### Political and Social Sciences.
 Central University of Ecuador 
 
-### English language proficiency C1 
+### English language proficiency C1. 
 Education First
 ## Interests
 I'm a person who is very good at working in a team or on my own.
