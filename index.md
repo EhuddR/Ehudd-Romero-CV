@@ -12,9 +12,9 @@
 ## Qualifications
 - **Universidad Técnica Particular de Loja -2017 1 Week**
   - Technical Educational Consultancy of the Russian Federation
-- ConQuito - 2017 4 weeks
+- **ConQuito - 2017 4 weeks**
   - Gestation of entrepreneurship.
-- Computer training area. Central University of Ecuador - 2017 12 weeks
+- **Computer training area. Central University of Ecuador - 2017 12 weeks**
 	- Office 365
 	- SPSS.25
 	- STATA
