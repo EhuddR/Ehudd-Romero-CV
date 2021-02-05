@@ -1,6 +1,4 @@
-# Ehudd Romero ^[[Git](https://ehuddr.github.io/Ehudd-Romero-CV/)]
-
-![Profileimage](https://avatars.githubusercontent.com/u/78237982?s=400&u=b39e0a8ff41577a66670e35e86304a660a5c2c08&v=4)
+# Ehudd Romero 
 
 ### 👋 Hi! And Welcome to my Github Page
 
@@ -27,7 +25,7 @@
 - **EDX - 2017 8 weeks**
 	- Adobe Illustrator
 	- Adobe Photoshop
-  - Adobe Dreamweaver
+ 	- Adobe Dreamweaver
 	- Adobe Premiere
 - **Programing Hub 1. 2020 6 weeks**
   - R programming language. (R studio)
