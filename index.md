@@ -10,6 +10,7 @@
 [Twitter](https://twitter.com/ehuddromero)
 
 ## Qualifications
+---
 - **Universidad Técnica Particular de Loja -2017 1 Week**
   - Technical Educational Consultancy of the Russian Federation
 - **ConQuito - 2017 4 weeks**
@@ -34,13 +35,17 @@
 - Data Science
 - Data Analytics
 - Basic CSS and HTML5
+
 ## Education
+---
 ### Political and Social Sciences.
 Central University of Ecuador 
 
 ### English language proficiency C1. 
 Education First
+
 ## Interests
+---
 I'm a person who is very good at working in a team or on my own.
 I'm writing my own research about racism in Ecuador, its continuities and ruptures within Ecuadorian modernity.
 I am passionate about data analysis as well as theories about culture and our society.
