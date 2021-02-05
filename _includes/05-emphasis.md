@@ -1,2 +1,2 @@
-__Writter__
-*Learner*
+- __Writter__
+- *Learner*
