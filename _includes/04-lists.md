@@ -1,0 +1,3 @@
+- R programming
+- Obsidian
+- Political Sciences
