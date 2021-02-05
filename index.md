@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Ehudd Romero
 
-You can use the [editor on GitHub](https://github.com/EhuddR/markdown-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Profileimage](https://avatars.githubusercontent.com/u/78237982?s=400&u=b39e0a8ff41577a66670e35e86304a660a5c2c08&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 👋 Hi! And Welcome to my Github Page
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Github](https://github.com/EhuddR)
 
-```markdown
-Syntax highlighted code block
+[Twitter](https://twitter.com/ehuddromero)
 
-# Header 1
-## Header 2
-### Header 3
+## Qualifications
+- **Universidad Técnica Particular de Loja -2017 1 Week**
+  - Technical Educational Consultancy of the Russian Federation
+- ConQuito - 2017 4 weeks
+  - Gestation of entrepreneurship.
+- Computer training area. Central University of Ecuador - 2017 12 weeks
+	- Office 365
+	- SPSS.25
+	- STATA
+	- ATLAS.ti.
+	- WOLFRAMAlpha
+	- TABLEAU PUBLIC 10.2.
+	- Desing Thinking
+	- GraphPad Prism 8
+- **EDX - 2017 8 weeks**
+	- Adobe Illustrator
+	- Adobe Photoshop
+  - Adobe Dreamweaver
+	- Adobe Premiere
+- **Programing Hub 1. 2020 6 weeks**
+- R programming language. (R studio) - - Business Analytics
+- Data Science
+- Data Analytics
+- Basic CSS and HTML5
+## Education
+### Political and Social Sciences.
+Central University of Ecuador 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EhuddR/markdown-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### English language proficiency C1 
+Education First
+## Interests
+I'm a person who is very good at working in a team or on my own.
+I'm writing my own research about racism in Ecuador, its continuities and ruptures within Ecuadorian modernity.
+I am passionate about data analysis as well as theories about culture and our society.
+I consider myself an avid reader. I have just read Erich Fromm's book The Art of Loving and I must say that it allowed me
+to understand a lot about interpersonal relationships and how they are reproduced.
