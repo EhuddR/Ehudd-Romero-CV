@@ -11,10 +11,12 @@
 
 ## Qualifications
 ---
+- **Universidad Central del Ecuador 100 hours** 
+	- Community and Human Rights Coordinator 
 - **Universidad Técnica Particular de Loja -2017 1 Week**
-  - Technical Educational Consultancy of the Russian Federation
+ 	 - Technical Educational Consultancy of the Russian Federation
 - **ConQuito - 2017 4 weeks**
-  - Gestation of entrepreneurship.
+ 	 - Gestation of entrepreneurship.
 - **Computer training area. Central University of Ecuador - 2017 12 weeks**
 	- Office 365
 	- SPSS.25
@@ -27,14 +29,14 @@
 - **EDX - 2017 8 weeks**
 	- Adobe Illustrator
 	- Adobe Photoshop
-  - Adobe Dreamweaver
+  	- Adobe Dreamweaver
 	- Adobe Premiere
 - **Programing Hub 1. 2020 6 weeks**
-- R programming language. (R studio)
-- Business Analytics
-- Data Science
-- Data Analytics
-- Basic CSS and HTML5
+	- R programming language. (R studio)
+	- Business Analytics
+	- Data Science
+	- Data Analytics
+	- Basic CSS and HTML5
 
 ## Education
 ---
