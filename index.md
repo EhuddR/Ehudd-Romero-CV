@@ -11,9 +11,9 @@
 
 ## Qualifications
 ---
-- **Universidad Central del Ecuador 100 hours** 
+- **Central University of Ecuador - 100 hours** 
 	- Community and Human Rights Coordinator 
-- **Universidad Técnica Particular de Loja -2017 1 Week**
+- **Loja Technical University - 2017 1 Week**
  	 - Technical Educational Consultancy of the Russian Federation
 - **ConQuito - 2017 4 weeks**
  	 - Gestation of entrepreneurship.
