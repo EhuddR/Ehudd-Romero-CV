@@ -22,7 +22,7 @@
 	- SPSS.25
 	- STATA
 	- ATLAS.ti.
-	- WOLFRAMAlpha
+	- WOLFRAM Alpha Mathematica
 	- TABLEAU PUBLIC 10.2.
 	- Desing Thinking
 	- GraphPad Prism 8
