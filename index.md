@@ -1,4 +1,4 @@
-# Ehudd Romero
+# Ehudd Antonio Romero M.
 
 ![Profileimage](https://avatars.githubusercontent.com/u/78237982?s=400&u=b39e0a8ff41577a66670e35e86304a660a5c2c08&v=4)
 
@@ -31,6 +31,7 @@
 	- Adobe Photoshop
   	- Adobe Dreamweaver
 	- Adobe Premiere
+	- Adobe Spark Post
 - **Programing Hub 1. 2020 6 weeks**
 	- R programming language. (R studio)
 	- Business Analytics
